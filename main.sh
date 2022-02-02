@@ -1,1 +1,2 @@
+#!/bin/sh
 echo "THIS IS A TEST OF SCRIPT FROM CLOUD"
